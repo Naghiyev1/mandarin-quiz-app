@@ -1,0 +1,24 @@
+body {
+	background-color: #2b3648;
+	background-image: url('../../assets/img/background.svg');
+}
+
+.LevelDetails {
+	margin-top: 10px;
+}
+
+.LevelDetails-card {
+	box-shadow: 0 19px 30px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.1);
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.LevelDetails-card img {
+	filter: grayscale();
+	transition: 0.4s filter ease;
+}
+.LevelDetails-card:hover img {
+	filter: none;
+}

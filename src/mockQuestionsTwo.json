@@ -1,0 +1,3225 @@
+[
+	{
+		"sentence": [
+			{
+				"text": "6 RMB",
+				"translations": [ "6元" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "8点",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "6元",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "第三",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "最",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "早上",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "因为",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "问",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "外",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "完",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "玩",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "6元" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "3rd",
+				"translations": [ "第三" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "第",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "7月",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "6日",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "三",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "欢",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "她",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "学",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "了",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "公",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "斤",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "第三" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "9kg",
+				"translations": [ "9公斤" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "他",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "今",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "24岁",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "年",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "斤",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "公",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "9",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "们",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "有",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "来",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "9公斤" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Wait a moment.",
+				"translations": [ "等一下" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "下",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "期",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "四",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "年",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "这",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "几",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "了",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "一",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "我",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "等",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "等一下" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Every time",
+				"translations": [ "每次" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "15块",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "每",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "四",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "年",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "这",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "次",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "了",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "太",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "我",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "脑",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "每次" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Don't go to swim",
+				"translations": [ "你别去游泳了" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "去",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "你",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "别",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "泳",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "游",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "585",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "了",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "太",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "我",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "脑",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "你别去游泳了" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "The weather there is very hot.",
+				"translations": [ "那里的天气非常热" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "那",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "的",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "里",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "天",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "气",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "常",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "非",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "太",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "我",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "热",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "那里的天气非常热" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Coffee is my favourite drink.",
+				"translations": [ "我最喜欢喝咖啡" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "我",
+				"text": "3",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "喜",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "最",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "欢",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "咖",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "喝",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "啡",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "太",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "我",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "脑",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "我最喜欢喝咖啡" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "They went to the airport together.",
+				"translations": [ "他们一起去机场了" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "一",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "他",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "起",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "们",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "去",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "了",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "场",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "机",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "我",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "脑",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "他们一起去机场了" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "We are watching TV.",
+				"translations": [ "我们正在看电视" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "们",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "在",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "正",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "话",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "看",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "些",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "个",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "视",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "我",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "电",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "我们正在看电视" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "He already arrived at school.",
+				"translations": [ "他已经到学校了" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "已",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "经",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "他",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "学",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "校",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "到",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "个",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "太",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "了",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "脑",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "他已经到学校了" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "She will return next week.",
+				"translations": [ "她下星期就回来了" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "我",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "她",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "就",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "星",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "期",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "些",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "生",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "回",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "了",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "来",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "她下星期就回来了" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "I also have a watch like this.",
+				"translations": [ "我也有一块这样的手表" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "一",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "也",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "的",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "有",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "我",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "块",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "样",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "这",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "手",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "表",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "我也有一块这样的手表" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "She still hasn't got up yet.",
+				"translations": [ "她还没起床" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "她",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "他",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "还",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "起",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "医",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "没",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "床",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "高",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "很",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "兴",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "她还没起床" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Your handwriting is really good!",
+				"translations": [ "你的字写得真漂亮" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "得",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "真",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "去",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "亮",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "漂",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "的",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "写",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "字",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "很",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "你",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "你的字写得真漂亮" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Come back soon!",
+				"translations": [ "欢迎再来" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "迎",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "那个",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "欢",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "人",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "都",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "再",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "了",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "高",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "来",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "太",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "欢迎再来" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Because it is raining, he didn't go to play football.",
+				"translations": [ "因为下雨，所以他没去踢足球" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "因",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "为",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "以",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "他",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "没",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "所",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "踢",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "去",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "下雨",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "足球",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "因为下雨所以他没去踢足球" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Although it is raining, he went to play football.",
+				"translations": [ "虽然下雨，但是他去踢足球" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "下雨",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "他",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "但是",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "去",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "住",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "踢",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "球",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "足",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "然",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "虽",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "虽然下雨但是他去踢足球" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "He is 80 years old, but he is very healthy.",
+				"translations": [ "他80岁了，但是身体很好" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "了",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "他",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "但",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "80岁",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "身",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "体",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "是",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "好",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "很",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "你",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "他80岁了但是身体很好" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "She came back from China.",
+				"translations": [ "她从中国回来了" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "中",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "从",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "们",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "她",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "了",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "么",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "回",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "来",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "国",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "来",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "她从中国回来了" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "He is nice to me.",
+				"translations": [ "他对我很好" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "对",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "饭",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "们",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "他",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "的",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "好",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "我",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "来",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "什",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "很",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "他对我很好" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "I am taller than her.",
+				"translations": [ "我比她高" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "比",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "了",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "她",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "候",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "的",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "她",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "我",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "来",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "去",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "高",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "我比她高" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Go left.",
+				"translations": [ "向左走" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "是",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "向",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "她",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "候",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "他",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "医",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "我",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "左",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "生",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "走",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "向左走" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "School is close to my home.",
+				"translations": [ "学校离我家很近" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "离",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "近",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "她",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "候",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "家",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "你",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "我",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "很",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "校",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "学",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "学校离我家很近" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Now you can go.",
+				"translations": [ "现在你可以走了" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "在",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "可",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "以",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "现",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "呢",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "你",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "儿",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "在",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "了",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "走",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "现在你可以走了" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "I want to learn to swim.",
+				"translations": [ "我要学游泳" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "六",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "游",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "泳",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "学",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "呢",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "星",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "要",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "天",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "好",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "我",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "我要学游泳" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "It might rain tomorrow.",
+				"translations": [ "明天可能下雨" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "明",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "喂",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "识",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "天",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "呢",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "能",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "可",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "天",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "下",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "雨",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "明天可能下雨" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "The book is my older brother's.",
+				"translations": [ "书是哥哥的" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "很",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "是",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "识",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "气",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "书",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "认",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "哥哥",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "天",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "好",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "的",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "书是哥哥的" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "That cup is mine.",
+				"translations": [ "那个杯子是我的" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "杯",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "是",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "她",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "那",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "子",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "饭",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "不",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "我",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "的",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "个",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "那个杯子是我的" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "This item of clothing is the cheapest.",
+				"translations": [ "这件衣服是最便宜的" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "件",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "这",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "便",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "宜",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "看",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "是",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "最",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "的",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "服",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "衣",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "这件衣服是最便宜的" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "I bought some food.",
+				"translations": [ "我买了一些吃的" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "的",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "一",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "这",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "些",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "看",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "买",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "吃",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "了",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "吗",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "我",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "我买了一些吃的" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "My husband is making a phone call there.",
+				"translations": [ "那边打电话的是我丈夫" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "边",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "电",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "打",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "话",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "的",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "是",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "丈",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "我",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "夫",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "那",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "那边打电话的是我丈夫" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "You did the right thing.",
+				"translations": [ "你做的对" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "个",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "的",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "那",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "对",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "看",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "是",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "子",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "呢",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "做",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "你",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "你做的对" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "It's almost 10 o'clock?",
+				"translations": [ "现在快10点了吧？" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "在",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "快",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "现",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "些",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "欢",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "10点",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "了",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "你",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "吧",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "喜",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "现在快10点了吧" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "She smiled and said: see you tomorrow.",
+				"translations": [ "她笑着说：明天见" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "笑",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "说",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "着",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "些",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "去",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "她",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "明",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "天",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "见",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "喜",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "她笑着说明天见" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "I bought a book.",
+				"translations": [ "我买了一本书" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "买",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "水",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "我",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "一",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "什",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "了",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "么",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "本",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "个",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "书",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "我买了一本书" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "I studied Chinese before.",
+				"translations": [ "我学过汉语" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "学",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "有",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "校",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "过",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "什",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "汉",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "么",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "语",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "我",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "学生",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "我学过汉语" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "You go and ask him.",
+				"translations": [ "你去问问他" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "去",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "问",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "问",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "岁",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "什",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "他",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "么",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "你",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "少",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "了",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "你去问问他" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Are you Chinese?",
+				"translations": [ "你是中国人吗" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "中",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "国",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "怎",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "岁",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "什",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "人",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "么",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "你",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "吗",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "是",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "你是中国人吗" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Why isn't he here?",
+				"translations": [ "他为什么没来？" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "来",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "有",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "书",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "没",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "怎",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "多",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "为",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "什",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "么",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "他",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "他为什么没来" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "How far is it from here to there?",
+				"translations": [ "从这儿到那儿多远？" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "儿",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "这",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "儿",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "多",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "那",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "到",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "么",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "样",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "远",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "从",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "从这儿到那儿多远" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Do you want some tea? (lit. Do you drink tea?)",
+				"translations": [ "你喝不喝茶？" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "是",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "喝",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "他",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "不",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "你",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "坐",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "同",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "喝",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "么",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "茶",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "你喝不喝茶" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Can we go together? Is that okay?",
+				"translations": [ "我们一起去，好吗？" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "一",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "们",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "起",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "的",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "有",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "吗",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "去",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "好",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "么",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "我",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "我们一起去好吗" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Don't speak.",
+				"translations": [ "别说话" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "昨",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "我",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "别",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "的",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "来",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "坐",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "说",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "话",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "么",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "月",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "别说话" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Don't eat too much.",
+				"translations": [ "不要吃太多" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "要",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "这",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "买",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "不",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "来",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "站",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "多",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "吃",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "火",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "太",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "不要吃太多" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Really yummy!",
+				"translations": [ "真好吃" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "真",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "坐",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "吃",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "的",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "来",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "好",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "是",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "机",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "火",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "车",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "真好吃" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "Today is colder than yesterday.",
+				"translations": [ "今天比昨天冷" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "天",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "今",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "们",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "昨",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "比",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "飞",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "天",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "吃",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "火",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "冷",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "今天比昨天冷" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "They are playing basketball.",
+				"translations": [ "他们正在打篮球" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "们",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "他",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "在",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "打",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "正",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "因为",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "篮",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "球",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "完",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "玩",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "他们正在打篮球" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "He bought 500g of apples.",
+				"translations": [ "他买了一斤苹果" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "他",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "期",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "了",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "买",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "斤",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "一",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "了",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "一",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "果",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "苹",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "他买了一斤苹果" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "I saw this movie.",
+				"translations": [ "我看过这个电影" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "看",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "我",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "过",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "这",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "个",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "电",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "影",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "了",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "公",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "斤",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "我看过这个电影" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "The train is about to leave.",
+				"translations": [ "火车要开了" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "车",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "6元",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "了",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "火",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "早上",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "因为",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "要",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "开",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "完",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "玩",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "火车要开了" ]
+	},
+
+	{
+		"sentence": [
+			{
+				"text": "It's raining outside.",
+				"translations": [ "外面下着雨" ]
+			}
+		],
+		"blocks": [
+			{
+				"id": "1",
+				"text": "面",
+				"sound": "wo.mp3"
+			},
+			{
+				"id": "2",
+				"text": "在",
+				"sound": "hatte.mp3"
+			},
+			{
+				"id": "3",
+				"text": "正",
+				"sound": "nakushi.mp3"
+			},
+			{
+				"id": "4",
+				"text": "外",
+				"sound": "ki.mp3"
+			},
+			{
+				"id": "5",
+				"text": "看",
+				"sound": "kitte.mp3"
+			},
+			{
+				"id": "6",
+				"text": "着",
+				"sound": "kagi.mp3"
+			},
+			{
+				"id": "7",
+				"text": "个",
+				"sound": "ta.mp3"
+			},
+			{
+				"id": "8",
+				"text": "下",
+				"sound": "hari.mp3"
+			},
+			{
+				"id": "9",
+				"text": "我",
+				"sound": "te.mp3"
+			},
+			{
+				"id": "10",
+				"text": "雨",
+				"sound": "mashi.mp3"
+			}
+		],
+		"solutions": [ "外面下着雨" ]
+	}
+]

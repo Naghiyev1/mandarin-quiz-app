@@ -1,0 +1,1491 @@
+[
+	{
+		"question": "爱",
+		"pinyin": "ài",
+		"optionA": "love; affection; be fond of",
+		"optionB": "to let down",
+		"optionC": "excuse me",
+		"optionD": "if you please",
+		"answer": "love; affection; be fond of"
+	},
+
+	{
+		"question": "八",
+		"pinyin": "bā",
+		"optionA": "I'm Sorry!",
+		"optionB": "excuse me",
+		"optionC": "unworthy",
+		"optionD": "eight (Kangxi radical 12)",
+		"answer": "eight (Kangxi radical 12)"
+	},
+
+	{
+		"question": "爸爸",
+		"pinyin": "bà ba",
+		"optionA": "to read",
+		"optionB": "William Shakespeare",
+		"optionC": "(informal) father; Dad",
+		"optionD": "Dan Brown",
+		"answer": "(informal) father; Dad"
+	},
+
+	{
+		"question": "杯子",
+		"pinyin": "bēi zi",
+		"optionA": "school",
+		"optionB": "A Computer",
+		"optionC": "A pair of shoes",
+		"optionD": "cup; glass",
+		"answer": "cup; glass"
+	},
+
+	{
+		"question": "北京",
+		"pinyin": "Běi jīng",
+		"optionA": "Beijing (capital of China)",
+		"optionB": "Elephant",
+		"optionC": "Goat",
+		"optionD": "Lion",
+		"answer": "Beijing (capital of China)"
+	},
+
+	{
+		"question": "本",
+		"pinyin": "běn",
+		"optionA": "doctor",
+		"optionB": "(mw for books); roots or stems of plants; origin; this",
+		"optionC": "Sherlock Holmes",
+		"optionD": "Samuel L. Jackson",
+		"answer": "(mw for books); roots or stems of plants; origin; this"
+	},
+
+	{
+		"question": "不",
+		"pinyin": "bù",
+		"optionA": "China",
+		"optionB": "Blue",
+		"optionC": "no; not",
+		"optionD": "to study",
+		"answer": "no; not"
+	},
+
+	{
+		"question": "不客气",
+		"pinyin": "bù kè qi",
+		"optionA": "you're welcome; don't be polite; impolite",
+		"optionB": "ear",
+		"optionC": "legs",
+		"optionD": "hands",
+		"answer": "you're welcome; don't be polite; impolite"
+	},
+
+	{
+		"question": "菜",
+		"pinyin": "cài",
+		"optionA": "play",
+		"optionB": "10",
+		"optionC": "to study",
+		"optionD": "dish (type of food); vegetables",
+		"answer": "dish (type of food); vegetables"
+	},
+
+	{
+		"question": "茶",
+		"pinyin": "chá",
+		"optionA": "tea",
+		"optionB": "Horse racing",
+		"optionC": "Street Racing",
+		"optionD": "Arm Wrestling",
+		"answer": "tea"
+	},
+
+	{
+		"question": "吃",
+		"pinyin": "chī",
+		"optionA": "music",
+		"optionB": "Sir Isaac Newton",
+		"optionC": "eat",
+		"optionD": "Albert Einstein",
+		"answer": "eat"
+	},
+
+	{
+		"question": "出租车",
+		"pinyin": "chū zū chē",
+		"optionA": "taxi; cab",
+		"optionB": "The Dictionary",
+		"optionC": "The Bible",
+		"optionD": "The Chemistry text Book",
+		"answer": "taxi; cab"
+	},
+
+	{
+		"question": "打电话",
+		"pinyin": "dǎ diàn huà",
+		"optionA": "go to work",
+		"optionB": "make a phone call",
+		"optionC": "Abuja",
+		"optionD": "Syndey",
+		"answer": "make a phone call"
+	},
+
+	{
+		"question": "大",
+		"pinyin": "dà",
+		"optionA": "pen",
+		"optionB": "to read",
+		"optionC": "to interpret",
+		"optionD": "big; large (Kangxi radical 37); person of importance",
+		"answer": "big; large (Kangxi radical 37); person of importance"
+	},
+
+	{
+		"question": "的",
+		"pinyin": "de",
+		"optionA": "(possessive, modifying, or descriptive particle); bull's eye; in reality",
+		"optionB": "Barack Obama",
+		"optionC": "Wole Soyinka",
+		"optionD": "Thomas Edison",
+		"answer": "(possessive, modifying, or descriptive particle); bull's eye; in reality"
+	},
+
+	{
+		"question": "点",
+		"pinyin": "diǎn",
+		"optionA": "to learn",
+		"optionB": "to decipher",
+		"optionC": "a dot; a point; a bit; a little; o'clock",
+		"optionD": "At that time",
+		"answer": "a dot; a point; a bit; a little; o'clock"
+	},
+
+	{
+		"question": "电脑",
+		"pinyin": "diàn nǎo",
+		"optionA": "television; TV",
+		"optionB": "movie; film",
+		"optionC": "computer",
+		"optionD": "eat",
+		"answer": "computer"
+	},
+
+	{
+		"question": "电视",
+		"pinyin": "diàn shì",
+		"optionA": "tea",
+		"optionB": "television; TV",
+		"optionC": "computer",
+		"optionD": "eat",
+		"answer": "television; TV"
+	},
+
+	{
+		"question": "电影",
+		"pinyin": "diàn yǐng",
+		"optionA": "tea",
+		"optionB": "television; TV",
+		"optionC": "computer",
+		"optionD": "movie; film",
+		"answer": "movie; film"
+	},
+
+	{
+		"question": "东西",
+		"pinyin": "dōng xi",
+		"optionA": "thing; objects; stuff; (-xī: east and west)",
+		"optionB": "television; TV",
+		"optionC": "computer",
+		"optionD": "eat",
+		"answer": "thing; objects; stuff; (-xī: east and west)"
+	},
+
+	{
+		"question": "都",
+		"pinyin": "dōu",
+		"optionA": "thing; objects; stuff; (-xī: east and west)",
+		"optionB": "all; both (if two things are involved) | capital; metropolis",
+		"optionC": "computer",
+		"optionD": "eat",
+		"answer": "all; both (if two things are involved) | capital; metropolis"
+	},
+
+	{
+		"question": "读",
+		"pinyin": "dú",
+		"optionA": "to read; to study",
+		"optionB": "sorry",
+		"optionC": "computer",
+		"optionD": "eat",
+		"answer": "to read; to study"
+	},
+
+	{
+		"question": "对不起",
+		"pinyin": "duì bu qǐ",
+		"optionA": "to read; to study",
+		"optionB": "sorry",
+		"optionC": "computer",
+		"optionD": "eat",
+		"answer": "sorry"
+	},
+
+	{
+		"question": "多",
+		"pinyin": "duō",
+		"optionA": "to read; to study",
+		"optionB": "sorry",
+		"optionC": "many; much; a lot of; more than",
+		"optionD": "eat",
+		"answer": "many; much; a lot of; more than"
+	},
+
+	{
+		"question": "多少",
+		"pinyin": "duō shao",
+		"optionA": "to read; to study",
+		"optionB": "how much; how many; which (number)",
+		"optionC": "many; much; a lot of; more than",
+		"optionD": "eat",
+		"answer": "how much; how many; which (number)"
+	},
+
+	{
+		"question": "儿子",
+		"pinyin": "ér zi",
+		"optionA": "to read; to study",
+		"optionB": "how much; how many; which (number)",
+		"optionC": "many; much; a lot of; more than",
+		"optionD": "son",
+		"answer": "son"
+	},
+
+	{
+		"question": "二",
+		"pinyin": "èr",
+		"optionA": "to read; to study",
+		"optionB": "two (Kangxi radical 7)",
+		"optionC": "many; much; a lot of; more than",
+		"optionD": "son",
+		"answer": "two (Kangxi radical 7)"
+	},
+
+	{
+		"question": "饭店",
+		"pinyin": "fàn diàn",
+		"optionA": "to read; to study",
+		"optionB": "two (Kangxi radical 7)",
+		"optionC": "restaurant; hotel",
+		"optionD": "son",
+		"answer": "restaurant; hotel"
+	},
+
+	{
+		"question": "飞机",
+		"pinyin": "fēi jī",
+		"optionA": "aeroplane",
+		"optionB": "two (Kangxi radical 7)",
+		"optionC": "restaurant; hotel",
+		"optionD": "son",
+		"answer": "aeroplane"
+	},
+
+	{
+		"question": "分钟",
+		"pinyin": "fēn zhōng",
+		"optionA": "aeroplane",
+		"optionB": "two (Kangxi radical 7)",
+		"optionC": "restaurant; hotel",
+		"optionD": "minute; (mw for time)",
+		"answer": "minute; (mw for time)"
+	},
+
+	{
+		"question": "高兴",
+		"pinyin": "gāo xìng",
+		"optionA": "aeroplane",
+		"optionB": "happy; glad; willing (do something)",
+		"optionC": "restaurant; hotel",
+		"optionD": "minute; (mw for time)",
+		"answer": "happy; glad; willing (do something)"
+	},
+
+	{
+		"question": "个",
+		"pinyin": "gè",
+		"optionA": "general measure word",
+		"optionB": "happy; glad; willing (do something)",
+		"optionC": "restaurant; hotel",
+		"optionD": "minute; (mw for time)",
+		"answer": "general measure word"
+	},
+
+	{
+		"question": "工作",
+		"pinyin": "gōng zuò",
+		"optionA": "general measure word",
+		"optionB": "happy; glad; willing (do something)",
+		"optionC": "restaurant; hotel",
+		"optionD": "work; a job",
+		"answer": "work; a job"
+	},
+
+	{
+		"question": "狗",
+		"pinyin": "gǒu",
+		"optionA": "general measure word",
+		"optionB": "dog",
+		"optionC": "restaurant; hotel",
+		"optionD": "work; a job",
+		"answer": "dog"
+	},
+
+	{
+		"question": "汉语",
+		"pinyin": "Hàn yǔ",
+		"optionA": "general measure word",
+		"optionB": "dog",
+		"optionC": "Chinese language",
+		"optionD": "work; a job",
+		"answer": "Chinese language"
+	},
+
+	{
+		"question": "好",
+		"pinyin": "hǎo",
+		"optionA": "general measure word",
+		"optionB": "dog",
+		"optionC": "Chinese language",
+		"optionD": "good; well; nice; very; quite",
+		"answer": "good; well; nice; very; quite"
+	},
+
+	{
+		"question": "号",
+		"pinyin": "hào",
+		"optionA": "number; day of a month; (mw for ordinal numbers)",
+		"optionB": "dog",
+		"optionC": "Chinese language",
+		"optionD": "good; well; nice; very; quite",
+		"answer": "number; day of a month; (mw for ordinal numbers)"
+	},
+
+	{
+		"question": "喝",
+		"pinyin": "hē",
+		"optionA": "number; day of a month; (mw for ordinal numbers)",
+		"optionB": "to drink; interjection expressing surprise",
+		"optionC": "Chinese language",
+		"optionD": "good; well; nice; very; quite",
+		"answer": "to drink; interjection expressing surprise"
+	},
+
+	{
+		"question": "和",
+		"pinyin": "hé",
+		"optionA": "and; with; harmony",
+		"optionB": "to drink; interjection expressing surprise",
+		"optionC": "Chinese language",
+		"optionD": "good; well; nice; very; quite",
+		"answer": "to drink; interjection expressing surprise"
+	},
+
+	{
+		"question": "很",
+		"pinyin": "hěn",
+		"optionA": "and; with; harmony",
+		"optionB": "to drink; interjection expressing surprise",
+		"optionC": "very; rather; quite; (adverb of degree)",
+		"optionD": "good; well; nice; very; quite",
+		"answer": "very; rather; quite; (adverb of degree)"
+	},
+
+	{
+		"question": "后面",
+		"pinyin": "hòu mian",
+		"optionA": "and; with; harmony",
+		"optionB": "to drink; interjection expressing surprise",
+		"optionC": "very; rather; quite; (adverb of degree)",
+		"optionD": "rear; back; behind",
+		"answer": "rear; back; behind"
+	},
+
+	{
+		"question": "回",
+		"pinyin": "huí",
+		"optionA": "and; with; harmony",
+		"optionB": "to return; to reply; to go back; (mw for matters or actions)",
+		"optionC": "very; rather; quite; (adverb of degree)",
+		"optionD": "rear; back; behind",
+		"answer": "to return; to reply; to go back; (mw for matters or actions)"
+	},
+
+	{
+		"question": "会",
+		"pinyin": "huì",
+		"optionA": "know how; be good at; be likely to",
+		"optionB": "to return; to reply; to go back; (mw for matters or actions)",
+		"optionC": "very; rather; quite; (adverb of degree)",
+		"optionD": "rear; back; behind",
+		"answer": "know how; be good at; be likely to"
+	},
+
+	{
+		"question": "几",
+		"pinyin": "jǐ",
+		"optionA": "know how; be good at; be likely to",
+		"optionB": "how many; several; a few | almost (Kangxi radical 16)",
+		"optionC": "very; rather; quite; (adverb of degree)",
+		"optionD": "rear; back; behind",
+		"answer": "how many; several; a few | almost (Kangxi radical 16)"
+	},
+
+	{
+		"question": "家",
+		"pinyin": "jiā",
+		"optionA": "know how; be good at; be likely to",
+		"optionB": "how many; several; a few | almost (Kangxi radical 16)",
+		"optionC": "very; rather; quite; (adverb of degree)",
+		"optionD": "family; home; household",
+		"answer": "family; home; household"
+	},
+
+	{
+		"question": "叫",
+		"pinyin": "jiào",
+		"optionA": "know how; be good at; be likely to",
+		"optionB": "to call; called; to yell",
+		"optionC": "very; rather; quite; (adverb of degree)",
+		"optionD": "family; home; household",
+		"answer": "to call; called; to yell"
+	},
+
+	{
+		"question": "今天",
+		"pinyin": "jīn tiān",
+		"optionA": "know how; be good at; be likely to",
+		"optionB": "to call; called; to yell",
+		"optionC": "today; at the present; now",
+		"optionD": "family; home; household",
+		"answer": "today; at the present; now"
+	},
+
+	{
+		"question": "开",
+		"pinyin": "kāi",
+		"optionA": "nine",
+		"optionB": "to open; to start; to turn on; to operate (a vehicle)",
+		"optionC": "today; at the present; now",
+		"optionD": "family; home; household",
+		"answer": "to open; to start; to turn on; to operate (a vehicle)"
+	},
+
+	{
+		"question": "看",
+		"pinyin": "kàn",
+		"optionA": "nine",
+		"optionB": "to open; to start; to turn on; to operate (a vehicle)",
+		"optionC": "see; look at; to watch; regard",
+		"optionD": "family; home; household",
+		"answer": "see; look at; to watch; regard"
+	},
+
+	{
+		"question": "看见",
+		"pinyin": "kàn jiàn",
+		"optionA": "nine",
+		"optionB": "to open; to start; to turn on; to operate (a vehicle)",
+		"optionC": "see; catch sight of",
+		"optionD": "family; home; household",
+		"answer": "see; catch sight of"
+	},
+
+	{
+		"question": "块",
+		"pinyin": "kuài",
+		"optionA": "lump; (mw: piece, chunk, sum of money)",
+		"optionB": "to open; to start; to turn on; to operate (a vehicle)",
+		"optionC": "see; catch sight of",
+		"optionD": "family; home; household",
+		"answer": "lump; (mw: piece, chunk, sum of money)"
+	},
+
+	{
+		"question": "来",
+		"pinyin": "lái",
+		"optionA": "lump; (mw: piece, chunk, sum of money)",
+		"optionB": "to open; to start; to turn on; to operate (a vehicle)",
+		"optionC": "see; catch sight of",
+		"optionD": "come; arrive; ever since; next",
+		"answer": "come; arrive; ever since; next"
+	},
+
+	{
+		"question": "老师",
+		"pinyin": "lǎo shī",
+		"optionA": "lump; (mw: piece, chunk, sum of money)",
+		"optionB": "teacher",
+		"optionC": "see; catch sight of",
+		"optionD": "come; arrive; ever since; next",
+		"answer": "teacher"
+	},
+
+	{
+		"question": "了",
+		"pinyin": "le",
+		"optionA": "(particle for a new situation or completed action)",
+		"optionB": "teacher",
+		"optionC": "see; catch sight of",
+		"optionD": "come; arrive; ever since; next",
+		"answer": "(particle for a new situation or completed action)"
+	},
+
+	{
+		"question": "冷",
+		"pinyin": "lěng",
+		"optionA": "(particle for a new situation or completed action)",
+		"optionB": "teacher",
+		"optionC": "cold",
+		"optionD": "come; arrive; ever since; next",
+		"answer": "cold"
+	},
+
+	{
+		"question": "里",
+		"pinyin": "lǐ",
+		"optionA": "inside; internal; village, Chinese mile (~.5 km); neighborhood (Kangxi radical 166)",
+		"optionB": "teacher",
+		"optionC": "cold",
+		"optionD": "come; arrive; ever since; next",
+		"answer": "inside; internal; village, Chinese mile (~.5 km); neighborhood (Kangxi radical 166)"
+	},
+
+	{
+		"question": "六",
+		"pinyin": "liù",
+		"optionA": "inside; internal; village, Chinese mile (~.5 km); neighborhood (Kangxi radical 166)",
+		"optionB": "teacher",
+		"optionC": "cold",
+		"optionD": "six",
+		"answer": "six"
+	},
+
+	{
+		"question": "妈妈",
+		"pinyin": "mā ma",
+		"optionA": "mum; mama; mam; mother",
+		"optionB": "teacher",
+		"optionC": "cold",
+		"optionD": "six",
+		"answer": "mum; mama; mam; mother"
+	},
+
+	{
+		"question": "吗",
+		"pinyin": "ma",
+		"optionA": "mum; mama; mam; mother",
+		"optionB": "teacher",
+		"optionC": "(question particle for yes/no questions)",
+		"optionD": "six",
+		"answer": "(question particle for yes/no questions)"
+	},
+
+	{
+		"question": "买",
+		"pinyin": "mǎi",
+		"optionA": "mum; mama; mam; mother",
+		"optionB": "to buy",
+		"optionC": "(question particle for yes/no questions)",
+		"optionD": "six",
+		"answer": "to buy"
+	},
+
+	{
+		"question": "猫",
+		"pinyin": "māo",
+		"optionA": "mum; mama; mam; mother",
+		"optionB": "to buy",
+		"optionC": "(question particle for yes/no questions)",
+		"optionD": "cat",
+		"answer": "cat"
+	},
+
+	{
+		"question": "没关系",
+		"pinyin": "méi guān xi",
+		"optionA": "it doesn't matter; never mind",
+		"optionB": "to buy",
+		"optionC": "(question particle for yes/no questions)",
+		"optionD": "cat",
+		"answer": "it doesn't matter; never mind"
+	},
+
+	{
+		"question": "没有",
+		"pinyin": "méi yǒu",
+		"optionA": "it doesn't matter; never mind",
+		"optionB": "to buy",
+		"optionC": "(question particle for yes/no questions)",
+		"optionD": "not have; there is not; haven't; hasn't",
+		"answer": "not have; there is not; haven't; hasn't"
+	},
+
+	{
+		"question": "米饭",
+		"pinyin": "mǐ fàn",
+		"optionA": "it doesn't matter; never mind",
+		"optionB": "(cooked) rice",
+		"optionC": "(question particle for yes/no questions)",
+		"optionD": "not have; there is not; haven't; hasn't",
+		"answer": "(cooked) rice"
+	},
+
+	{
+		"question": "名字",
+		"pinyin": "míng zi",
+		"optionA": "name",
+		"optionB": "(cooked) rice",
+		"optionC": "(question particle for yes/no questions)",
+		"optionD": "not have; there is not; haven't; hasn't",
+		"answer": "name"
+	},
+
+	{
+		"question": "明天",
+		"pinyin": "míng tiān",
+		"optionA": "name",
+		"optionB": "(cooked) rice",
+		"optionC": "tomorrow",
+		"optionD": "not have; there is not; haven't; hasn't",
+		"answer": "tomorrow"
+	},
+
+	{
+		"question": "哪",
+		"pinyin": "nǎ",
+		"optionA": "name",
+		"optionB": "(cooked) rice",
+		"optionC": "tomorrow",
+		"optionD": "which; how",
+		"answer": "which; how"
+	},
+
+	{
+		"question": "哪儿",
+		"pinyin": "nǎ r",
+		"optionA": "name",
+		"optionB": "where; wherever (Beijing accent)",
+		"optionC": "tomorrow",
+		"optionD": "which; how",
+		"answer": "which; how"
+	},
+
+	{
+		"question": "那",
+		"pinyin": "nǎ",
+		"optionA": "that; in that case; then",
+		"optionB": "where; wherever (Beijing accent)",
+		"optionC": "tomorrow",
+		"optionD": "which; how",
+		"answer": "that; in that case; then"
+	},
+
+	{
+		"question": "呢",
+		"pinyin": "ne",
+		"optionA": "that; in that case; then",
+		"optionB": "where; wherever (Beijing accent)",
+		"optionC": "tomorrow",
+		"optionD": "(modal particle ending a question); how about...?; what about...?",
+		"answer": "(modal particle ending a question); how about...?; what about...?"
+	},
+
+	{
+		"question": "能",
+		"pinyin": "néng",
+		"optionA": "that; in that case; then",
+		"optionB": "where; wherever (Beijing accent)",
+		"optionC": "tomorrow",
+		"optionD": "can; be able; capable; energy; ability",
+		"answer": "can; be able; capable; energy; ability"
+	},
+
+	{
+		"question": "你",
+		"pinyin": "nǐ",
+		"optionA": "that; in that case; then",
+		"optionB": "you (singular)",
+		"optionC": "tomorrow",
+		"optionD": "can; be able; capable; energy; ability",
+		"answer": "you (singular)"
+	},
+
+	{
+		"question": "年",
+		"pinyin": "nián",
+		"optionA": "that; in that case; then",
+		"optionB": "you (singular)",
+		"optionC": "year",
+		"optionD": "can; be able; capable; energy; ability",
+		"answer": "year"
+	},
+
+	{
+		"question": "女儿",
+		"pinyin": "nǚ ér",
+		"optionA": "that; in that case; then",
+		"optionB": "you (singular)",
+		"optionC": "year",
+		"optionD": "daughter",
+		"answer": "daughter"
+	},
+
+	{
+		"question": "朋友",
+		"pinyin": "péng you",
+		"optionA": "that; in that case; then",
+		"optionB": "friend",
+		"optionC": "year",
+		"optionD": "daughter",
+		"answer": "friend"
+	},
+
+	{
+		"question": "漂亮",
+		"pinyin": "piào liang",
+		"optionA": "pretty; beautiful",
+		"optionB": "friend",
+		"optionC": "year",
+		"optionD": "daughter",
+		"answer": "pretty; beautiful"
+	},
+
+	{
+		"question": "苹果",
+		"pinyin": "píng guǒ",
+		"optionA": "pretty; beautiful",
+		"optionB": "friend",
+		"optionC": "apple",
+		"optionD": "daughter",
+		"answer": "apple"
+	},
+
+	{
+		"question": "七",
+		"pinyin": "qī",
+		"optionA": "pretty; beautiful",
+		"optionB": "friend",
+		"optionC": "apple",
+		"optionD": "seven",
+		"answer": "seven"
+	},
+
+	{
+		"question": "前面",
+		"pinyin": "qián miàn",
+		"optionA": "in front; fore; at the head",
+		"optionB": "friend",
+		"optionC": "apple",
+		"optionD": "seven",
+		"answer": "in front; fore; at the head"
+	},
+
+	{
+		"question": "钱",
+		"pinyin": "qián",
+		"optionA": "in front; fore; at the head",
+		"optionB": "friend",
+		"optionC": "money; coin",
+		"optionD": "seven",
+		"answer": "money; coin"
+	},
+
+	{
+		"question": "请",
+		"pinyin": "qǐng",
+		"optionA": "in front; fore; at the head",
+		"optionB": "please; invite; to request | treat",
+		"optionC": "money; coin",
+		"optionD": "seven",
+		"answer": "please; invite; to request | treatn"
+	},
+
+	{
+		"question": "去",
+		"pinyin": "qù",
+		"optionA": "in front; fore; at the head",
+		"optionB": "please; invite; to request | treat",
+		"optionC": "go; to leave",
+		"optionD": "seven",
+		"answer": "go; to leave"
+	},
+
+	{
+		"question": "热",
+		"pinyin": "rè",
+		"optionA": "heat; hot; heat up",
+		"optionB": "please; invite; to request | treat",
+		"optionC": "go; to leave",
+		"optionD": "seven",
+		"answer": "heat; hot; heat up"
+	},
+
+	{
+		"question": "人",
+		"pinyin": "rén",
+		"optionA": "heat; hot; heat up",
+		"optionB": "person; man; people (Kangxi radical 9)",
+		"optionC": "go; to leave",
+		"optionD": "seven",
+		"answer": "person; man; people (Kangxi radical 9)"
+	},
+
+	{
+		"question": "认识",
+		"pinyin": "rèn shi",
+		"optionA": "heat; hot; heat up",
+		"optionB": "person; man; people (Kangxi radical 9)",
+		"optionC": "go; to leave",
+		"optionD": "know; recognize; acquainted with (a person)",
+		"answer": "know; recognize; acquainted with (a person)"
+	},
+
+	{
+		"question": "三",
+		"pinyin": "sān",
+		"optionA": "three",
+		"optionB": "person; man; people (Kangxi radical 9)",
+		"optionC": "go; to leave",
+		"optionD": "know; recognize; acquainted with (a person)",
+		"answer": "three"
+	},
+
+	{
+		"question": "商店",
+		"pinyin": "shāng diàn",
+		"optionA": "three",
+		"optionB": "shop，store",
+		"optionC": "go; to leave",
+		"optionD": "know; recognize; acquainted with (a person)",
+		"answer": "shop，store"
+	},
+
+	{
+		"question": "上",
+		"pinyin": "shàng",
+		"optionA": "three",
+		"optionB": "shop，store",
+		"optionC": "above; up; on top; get on; go up",
+		"optionD": "know; recognize; acquainted with (a person)",
+		"answer": "above; up; on top; get on; go up"
+	},
+
+	{
+		"question": "上午",
+		"pinyin": "shàng wǔ",
+		"optionA": "three",
+		"optionB": "shop，store",
+		"optionC": "above; up; on top; get on; go up",
+		"optionD": "late morning (before noon)",
+		"answer": "late morning (before noon)"
+	},
+
+	{
+		"question": "少",
+		"pinyin": "shǎo",
+		"optionA": "few; little; lack; lose",
+		"optionB": "shop，store",
+		"optionC": "above; up; on top; get on; go up",
+		"optionD": "late morning (before noon)",
+		"answer": "few; little; lack; lose"
+	},
+
+	{
+		"question": "谁",
+		"pinyin": "shéi",
+		"optionA": "few; little; lack; lose",
+		"optionB": "who",
+		"optionC": "above; up; on top; get on; go up",
+		"optionD": "late morning (before noon)",
+		"answer": "who"
+	},
+
+	{
+		"question": "什么",
+		"pinyin": "shén me",
+		"optionA": "few; little; lack; lose",
+		"optionB": "who",
+		"optionC": "what; whatever; something",
+		"optionD": "late morning (before noon)",
+		"answer": "what; whatever; something"
+	},
+
+	{
+		"question": "十",
+		"pinyin": "shí",
+		"optionA": "ten (Kangxi radical 24)",
+		"optionB": "who",
+		"optionC": "what; whatever; something",
+		"optionD": "late morning (before noon)",
+		"answer": "ten (Kangxi radical 24)"
+	},
+
+	{
+		"question": "时候",
+		"pinyin": "shí hou",
+		"optionA": "ten (Kangxi radical 24)",
+		"optionB": "who",
+		"optionC": "what; whatever; something",
+		"optionD": "time; length of time; moment",
+		"answer": "time; length of time; moment"
+	},
+
+	{
+		"question": "是",
+		"pinyin": "shì",
+		"optionA": "ten (Kangxi radical 24)",
+		"optionB": "be; is; are; am",
+		"optionC": "what; whatever; something",
+		"optionD": "time; length of time; moment",
+		"answer": "be; is; are; am"
+	},
+
+	{
+		"question": "书",
+		"pinyin": "shū",
+		"optionA": "book; letter",
+		"optionB": "be; is; are; am",
+		"optionC": "what; whatever; something",
+		"optionD": "time; length of time; moment",
+		"answer": "book; letter"
+	},
+
+	{
+		"question": "水",
+		"pinyin": "shuǐ",
+		"optionA": "book; letter",
+		"optionB": "be; is; are; am",
+		"optionC": "water (Kangxi radical 85)",
+		"optionD": "time; length of time; moment",
+		"answer": "water (Kangxi radical 85)"
+	},
+
+	{
+		"question": "水果",
+		"pinyin": "shuǐ guǒ",
+		"optionA": "book; letter",
+		"optionB": "be; is; are; am",
+		"optionC": "water (Kangxi radical 85)",
+		"optionD": "fruit",
+		"answer": "fruit"
+	},
+
+	{
+		"question": "睡觉",
+		"pinyin": "shuì jiào",
+		"optionA": "book; letter",
+		"optionB": "be; is; are; am",
+		"optionC": "to sleep; go to bed",
+		"optionD": "fruit",
+		"answer": "to sleep; go to bed"
+	},
+
+	{
+		"question": "说",
+		"pinyin": "shuō",
+		"optionA": "book; letter",
+		"optionB": "speak; to say; to talk",
+		"optionC": "to sleep; go to bed",
+		"optionD": "fruit",
+		"answer": "speak; to say; to talk"
+	},
+
+	{
+		"question": "四",
+		"pinyin": "sì",
+		"optionA": "four",
+		"optionB": "speak; to say; to talk",
+		"optionC": "to sleep; go to bed",
+		"optionD": "fruit",
+		"answer": "four"
+	},
+
+	{
+		"question": "岁",
+		"pinyin": "suì",
+		"optionA": "four",
+		"optionB": "speak; to say; to talk",
+		"optionC": "to sleep; go to bed",
+		"optionD": "years old",
+		"answer": "years old"
+	},
+
+	{
+		"question": "他",
+		"pinyin": "tā",
+		"optionA": "four",
+		"optionB": "speak; to say; to talk",
+		"optionC": "he; him",
+		"optionD": "years old",
+		"answer": "he; him"
+	},
+
+	{
+		"question": "她",
+		"pinyin": "tā",
+		"optionA": "four",
+		"optionB": "she; her",
+		"optionC": "he; him",
+		"optionD": "years old",
+		"answer": "she; her"
+	},
+
+	{
+		"question": "太",
+		"pinyin": "tài",
+		"optionA": "too (much); excessively; highest; greatest",
+		"optionB": "she; her",
+		"optionC": "he; him",
+		"optionD": "years old",
+		"answer": "too (much); excessively; highest; greatest"
+	},
+
+	{
+		"question": "天气",
+		"pinyin": "tiān qì",
+		"optionA": "too (much); excessively; highest; greatest",
+		"optionB": "she; her",
+		"optionC": "he; him",
+		"optionD": "weather",
+		"answer": "weather"
+	},
+
+	{
+		"question": "听",
+		"pinyin": "tīng",
+		"optionA": "too (much); excessively; highest; greatest",
+		"optionB": "she; her",
+		"optionC": "listen; hear; heed",
+		"optionD": "weather",
+		"answer": "listen; hear; heed"
+	},
+
+	{
+		"question": "同学",
+		"pinyin": "tóng xué",
+		"optionA": "too (much); excessively; highest; greatest",
+		"optionB": "fellow student; schoolmate",
+		"optionC": "listen; hear; heed",
+		"optionD": "weather",
+		"answer": "fellow student; schoolmate"
+	},
+
+	{
+		"question": "喂",
+		"pinyin": "wéi",
+		"optionA": "too (much); excessively; highest; greatest",
+		"optionB": "fellow student; schoolmate",
+		"optionC": "listen; hear; heed",
+		"optionD": "hey; hello (on the phone)",
+		"answer": "hey; hello (on the phone)"
+	},
+
+	{
+		"question": "我",
+		"pinyin": "wǒ",
+		"optionA": "I; me",
+		"optionB": "fellow student; schoolmate",
+		"optionC": "listen; hear; heed",
+		"optionD": "hey; hello (on the phone)",
+		"answer": "I; me"
+	},
+
+	{
+		"question": "我们",
+		"pinyin": "wǒ men",
+		"optionA": "I; me",
+		"optionB": "fellow student; schoolmate",
+		"optionC": "we; us",
+		"optionD": "hey; hello (on the phone)",
+		"answer": "we; us"
+	},
+
+	{
+		"question": "五",
+		"pinyin": "wǔ",
+		"optionA": "I; me",
+		"optionB": "five",
+		"optionC": "we; us",
+		"optionD": "hey; hello (on the phone)",
+		"answer": "five"
+	},
+
+	{
+		"question": "喜欢",
+		"pinyin": "xǐ huan",
+		"optionA": "I; me",
+		"optionB": "five",
+		"optionC": "we; us",
+		"optionD": "to like; be fond of",
+		"answer": "to like; be fond of"
+	},
+
+	{
+		"question": "下",
+		"pinyin": "xià",
+		"optionA": "I; me",
+		"optionB": "five",
+		"optionC": "descend; fall; below; down; next; the second (of two parts)",
+		"optionD": "to like; be fond of",
+		"answer": "descend; fall; below; down; next; the second (of two parts)"
+	},
+
+	{
+		"question": "下午",
+		"pinyin": "xià wǔ",
+		"optionA": "I; me",
+		"optionB": "afternoon",
+		"optionC": "descend; fall; below; down; next; the second (of two parts)",
+		"optionD": "to like; be fond of",
+		"answer": "afternoon"
+	},
+
+	{
+		"question": "下雨",
+		"pinyin": "xià yǔ",
+		"optionA": "I; me",
+		"optionB": "afternoon",
+		"optionC": "to rain",
+		"optionD": "to like; be fond of",
+		"answer": "to rain"
+	},
+
+	{
+		"question": "先生",
+		"pinyin": "xiān sheng",
+		"optionA": "I; me",
+		"optionB": "afternoon",
+		"optionC": "to rain",
+		"optionD": "Mr.; Sir",
+		"answer": "Mr.; Sir"
+	},
+
+	{
+		"question": "现在",
+		"pinyin": "xiàn zài",
+		"optionA": "now",
+		"optionB": "afternoon",
+		"optionC": "to rain",
+		"optionD": "Mr.; Sir",
+		"answer": "now"
+	},
+
+	{
+		"question": "想",
+		"pinyin": "xiǎng",
+		"optionA": "now",
+		"optionB": "think; believe; suppose; would like to; remember with longing; to miss",
+		"optionC": "to rain",
+		"optionD": "Mr.; Sir",
+		"answer": "think; believe; suppose; would like to; remember with longing; to miss"
+	},
+
+	{
+		"question": "小",
+		"pinyin": "xiǎo",
+		"optionA": "now",
+		"optionB": "think; believe; suppose; would like to; remember with longing; to miss",
+		"optionC": "to rain",
+		"optionD": "small; young (Kangxi radical 42)",
+		"answer": "small; young (Kangxi radical 42)"
+	},
+
+	{
+		"question": "小姐",
+		"pinyin": "xiǎo jie",
+		"optionA": "now",
+		"optionB": "young lady; miss; Ms.",
+		"optionC": "to rain",
+		"optionD": "small; young (Kangxi radical 42)",
+		"answer": "young lady; miss; Ms."
+	},
+
+	{
+		"question": "些",
+		"pinyin": "xiē",
+		"optionA": "some; few; several; (mw for indefinite amount)",
+		"optionB": "young lady; miss; Ms.",
+		"optionC": "to rain",
+		"optionD": "small; young (Kangxi radical 42)",
+		"answer": "some; few; several; (mw for indefinite amount)"
+	},
+
+	{
+		"question": "写",
+		"pinyin": "xiě",
+		"optionA": "some; few; several; (mw for indefinite amount)",
+		"optionB": "young lady; miss; Ms.",
+		"optionC": "to write; to compose",
+		"optionD": "small; young (Kangxi radical 42)",
+		"answer": "to write; to compose"
+	},
+
+	{
+		"question": "谢谢",
+		"pinyin": "xiè xie",
+		"optionA": "to thank; thank you",
+		"optionB": "young lady; miss; Ms.",
+		"optionC": "to write; to compose",
+		"optionD": "small; young (Kangxi radical 42)",
+		"answer": "to thank; thank you"
+	},
+
+	{
+		"question": "星期",
+		"pinyin": "xīng qī",
+		"optionA": "to thank; thank you",
+		"optionB": "young lady; miss; Ms.",
+		"optionC": "to write; to compose",
+		"optionD": "week",
+		"answer": "week"
+	},
+
+	{
+		"question": "学生",
+		"pinyin": "xué sheng",
+		"optionA": "student",
+		"optionB": "young lady; miss; Ms.",
+		"optionC": "to write; to compose",
+		"optionD": "week",
+		"answer": "student"
+	},
+
+	{
+		"question": "学习",
+		"pinyin": "xué xí",
+		"optionA": "student",
+		"optionB": "learn; to study; emulate",
+		"optionC": "to write; to compose",
+		"optionD": "week",
+		"answer": "learn; to study; emulate"
+	},
+
+	{
+		"question": "学校",
+		"pinyin": "xué xiào",
+		"optionA": "student",
+		"optionB": "learn; to study; emulate",
+		"optionC": "to write; to compose",
+		"optionD": "school",
+		"answer": "school"
+	},
+
+	{
+		"question": "一",
+		"pinyin": "yī",
+		"optionA": "student",
+		"optionB": "learn; to study; emulate",
+		"optionC": "one; once; a (article) (Kangxi radical 1)",
+		"optionD": "school",
+		"answer": "one; once; a (article) (Kangxi radical 1)"
+	},
+
+	{
+		"question": "一点儿",
+		"pinyin": "yī diǎn r",
+		"optionA": "a bit; a few; a little; Beijing accent",
+		"optionB": "learn; to study; emulate",
+		"optionC": "one; once; a (article) (Kangxi radical 1)",
+		"optionD": "school",
+		"answer": "a bit; a few; a little; Beijing accent"
+	},
+
+	{
+		"question": "衣服",
+		"pinyin": "yī fu",
+		"optionA": "a bit; a few; a little; Beijing accent",
+		"optionB": "learn; to study; emulate",
+		"optionC": "clothes",
+		"optionD": "school",
+		"answer": "clothes"
+	},
+
+	{
+		"question": "医生",
+		"pinyin": "yī shēng",
+		"optionA": "doctor",
+		"optionB": "learn; to study; emulate",
+		"optionC": "clothes",
+		"optionD": "school",
+		"answer": "doctor"
+	},
+
+	{
+		"question": "医院",
+		"pinyin": "yī yuàn",
+		"optionA": "doctor",
+		"optionB": "learn; to study; emulate",
+		"optionC": "clothes",
+		"optionD": "hospital",
+		"answer": "hospital"
+	},
+
+	{
+		"question": "椅子",
+		"pinyin": "yǐ zi",
+		"optionA": "doctor",
+		"optionB": "chair",
+		"optionC": "clothes",
+		"optionD": "hospital",
+		"answer": "chair"
+	},
+
+	{
+		"question": "有",
+		"pinyin": "yǒu",
+		"optionA": "doctor",
+		"optionB": "chair",
+		"optionC": "have; there is",
+		"optionD": "hospital",
+		"answer": "have; there is"
+	},
+
+	{
+		"question": "月",
+		"pinyin": "yuè",
+		"optionA": "moon; month (Kangxi radical 74: moon | (Kangxi radical 130: flesh)",
+		"optionB": "chair",
+		"optionC": "have; there is",
+		"optionD": "hospital",
+		"answer": "moon; month (Kangxi radical 74: moon | (Kangxi radical 130: flesh)"
+	},
+
+	{
+		"question": "再见",
+		"pinyin": "zài jiàn",
+		"optionA": "moon; month (Kangxi radical 74: moon | (Kangxi radical 130: flesh)",
+		"optionB": "chair",
+		"optionC": "have; there is",
+		"optionD": "goodbye; see you later",
+		"answer": "goodbye; see you later"
+	},
+
+	{
+		"question": "在",
+		"pinyin": "zài",
+		"optionA": "at; on; in; exist; (indicating an action in progress)",
+		"optionB": "chair",
+		"optionC": "have; there is",
+		"optionD": "goodbye; see you later",
+		"answer": "at; on; in; exist; (indicating an action in progress)"
+	},
+
+	{
+		"question": "怎么",
+		"pinyin": "zěn me",
+		"optionA": "at; on; in; exist; (indicating an action in progress)",
+		"optionB": "how",
+		"optionC": "have; there is",
+		"optionD": "goodbye; see you later",
+		"answer": "how"
+	},
+
+	{
+		"question": "怎么样",
+		"pinyin": "zěn me yàng",
+		"optionA": "how about; how is/was it",
+		"optionB": "how",
+		"optionC": "have; there is",
+		"optionD": "goodbye; see you later",
+		"answer": "how about; how is/was it"
+	},
+
+	{
+		"question": "这",
+		"pinyin": "zhè",
+		"optionA": "how about; how is/was it",
+		"optionB": "how",
+		"optionC": "have; there is",
+		"optionD": "this; these",
+		"answer": "this; these"
+	},
+
+	{
+		"question": "中国",
+		"pinyin": "Zhōng guó",
+		"optionA": "how about; how is/was it",
+		"optionB": "how",
+		"optionC": "China",
+		"optionD": "this; these",
+		"answer": "China"
+	},
+
+	{
+		"question": "中午",
+		"pinyin": "zhōng wǔ",
+		"optionA": "how about; how is/was it",
+		"optionB": "noon; midday",
+		"optionC": "China",
+		"optionD": "this; these",
+		"answer": "noon; midday"
+	},
+
+	{
+		"question": "住",
+		"pinyin": "zhù",
+		"optionA": "how about; how is/was it",
+		"optionB": "noon; midday",
+		"optionC": "China",
+		"optionD": "to live; reside; to stop",
+		"answer": "to live; reside; to stop"
+	},
+
+	{
+		"question": "桌子",
+		"pinyin": "zhuō zi",
+		"optionA": "how about; how is/was it",
+		"optionB": "noon; midday",
+		"optionC": "table; desk",
+		"optionD": "to live; reside; to stop",
+		"answer": "table; desk"
+	},
+
+	{
+		"question": "字",
+		"pinyin": "zì",
+		"optionA": "word; letter; character",
+		"optionB": "noon; midday",
+		"optionC": "table; desk",
+		"optionD": "to live; reside; to stop",
+		"answer": "word; letter; character"
+	},
+
+	{
+		"question": "昨天",
+		"pinyin": "zuó tiān",
+		"optionA": "word; letter; character",
+		"optionB": "yesterday",
+		"optionC": "table; desk",
+		"optionD": "to live; reside; to stop",
+		"answer": "yesterday"
+	},
+
+	{
+		"question": "坐",
+		"pinyin": "zuò",
+		"optionA": "word; letter; character",
+		"optionB": "yesterday",
+		"optionC": "sit; take a seat",
+		"optionD": "to live; reside; to stop",
+		"answer": "sit; take a seat"
+	},
+
+	{
+		"question": "做",
+		"pinyin": "zuò",
+		"optionA": "do; make; to produce; be; to cook; write",
+		"optionB": "yesterday",
+		"optionC": "sit; take a seat",
+		"optionD": "to live; reside; to stop",
+		"answer": "do; make; to produce; be; to cook; write"
+	}
+]
